@@ -12,3 +12,4 @@ this is a bug1 line.
 test pull request version2
 echo 
 my add test
+add my test
